@@ -1,4 +1,4 @@
-alias ll='ls -lisa'
+alias ll='ls -lisaG'
 
 alias g='git'
 

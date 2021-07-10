@@ -1,3 +1,6 @@
+export CLICOLOR=1
+export LSCOLORS="gxfxcxdxbxegedabagacad"
+
 # Load plugins
 source ~/.zsh/fast-syntax-highlighting/fast-syntax-highlighting.plugin.zsh
 source ~/.zsh/zsh-autosuggestions/zsh-autosuggestions.zsh
